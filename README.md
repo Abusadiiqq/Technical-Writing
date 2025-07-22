@@ -1,4 +1,7 @@
 # Technical-Writing
+We are going to explain how to write a README file with a focus on syntax and structure.
+ The README is typically written in Markdown, so we'll cover the common Markdown syntax used in READMEs.
+ We'll break down the structure section by section and provide examples for each.
 
  Structure of a README:
  1. Project Title and Badges
